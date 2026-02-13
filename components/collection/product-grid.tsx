@@ -52,7 +52,7 @@ const products = [
     name: "Linen Handloom Saree",
     price: "4,200",
     description: "Soft mustard linen with minimalist geometric prints, modern and breathable.",
-    image: "/images/saree-linen.jpg",
+    image: "/images/saree-lenin.jpg",
     category: "cotton",
   },
 ]
