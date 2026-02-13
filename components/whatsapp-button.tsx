@@ -14,7 +14,7 @@ export function WhatsAppButton({
   variant = "primary",
 }: WhatsAppButtonProps) {
   const encodedMessage = encodeURIComponent(message)
-  const url = `https://wa.me/919876543210?text=${encodedMessage}`
+  const url = `https://wa.me/91999999999?text=${encodedMessage}`
 
   return (
     <a
